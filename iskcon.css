@@ -1,0 +1,78 @@
+/* body */
+body{
+  /* background-image: url("spic (1).jpg");
+  background-size: 250px 257px;
+  background-image: url("navbg5.jpeg");
+  background-size: 337px 600px; */
+  background-color: #757575;
+}
+
+
+/*Navbar*/
+.s1{
+  background-color:#A39D92;
+  color: black;
+  font-family: monospace;
+}
+
+/* Color white */
+.c1{
+  color: #D1D1D1;
+}
+
+/*Logo*/
+.logo{
+  margin-left: 20px;
+}
+
+
+/* gallery */
+.g1{
+  margin: 130px 20px 10px;
+  display:inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* Why this Krishna Consciousness movement? */
+.moment{
+  padding: 10px ;
+  margin: 10px 20px;
+  //border: 2px solid white;
+  background-color: #f2f0f5;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+/* Events */
+.events{
+  //border: 2px solid white;
+  margin: 10px 20px;
+  padding: 10px 10px;
+
+}
+
+/* gallery heading */
+.gallery_heading{
+  border: 5px solid #cdcad4;
+  background-color: #f2f0f5;
+  margin: 10px 0px 20px;
+  color: #cdcad4;
+  font-size: 30px;
+}
+
+/* Gallery Button */
+.b1{
+  margin: 15px 0px;
+}
+
+
+
+.current_events{
+  margin: 10px 20px;
+  border: 2px solid white;
+}
+
+.current_events1{
+  margin: 10px 10px;
+}
